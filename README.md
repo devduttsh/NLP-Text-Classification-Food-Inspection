@@ -11,7 +11,7 @@ I have used text classification on the Violations text to classify them as Passe
   * Naive Bayes Model
   * Logistic Regression Model
   * Support Vector Machine
- *Compared the model evaluation metrics 
- * Highlighted the most important features (tokens) that led to Pass/Fail violation
+* Compared the model evaluation metrics 
+* Highlighted the most important features (tokens) that led to Pass/Fail violation
 
 **Note: This is a private project so if you are interested in knowing more, please ping me.**
